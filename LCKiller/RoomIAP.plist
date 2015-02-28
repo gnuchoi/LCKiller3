@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>LocationDescription</key>
+		<string>Not Simulated</string>
+		<key>SpeakerDescription</key>
+		<string>Not Simulated</string>
+		<key>Name</key>
+		<string>Room 101</string>
+		<key>ID</key>
+		<string>101</string>
+		<key>Difficulty</key>
+		<integer>0</integer>
+		<key>LocationID</key>
+		<integer>1</integer>
+		<key>SpeakerID</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>LocationDescription</key>
+		<string>Small Classroom</string>
+		<key>SpeakerDescription</key>
+		<string>Not Simulated</string>
+		<key>Name</key>
+		<string>Room 201</string>
+		<key>ID</key>
+		<string>201</string>
+		<key>Difficulty</key>
+		<integer>1</integer>
+		<key>LocationID</key>
+		<integer>2</integer>
+		<key>SpeakerID</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>LocationDescription</key>
+		<string>Small Classroom</string>
+		<key>SpeakerDescription</key>
+		<string>Classroom Speaker</string>
+		<key>Name</key>
+		<string>Room 202</string>
+		<key>ID</key>
+		<string>202</string>
+		<key>Difficulty</key>
+		<integer>2</integer>
+		<key>LocationID</key>
+		<integer>2</integer>
+		<key>SpeakerID</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>SpeakerDescription</key>
+		<string>Not Simulated</string>
+		<key>LocationDescription</key>
+		<string>Large Classroom</string>
+		<key>Name</key>
+		<string>Room 301</string>
+		<key>ID</key>
+		<string>301</string>
+		<key>Difficulty</key>
+		<integer>2</integer>
+		<key>LocationID</key>
+		<integer>3</integer>
+		<key>SpeakerID</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>SpeakerDescription</key>
+		<string>Classroom Speaker</string>
+		<key>LocationDescription</key>
+		<string>Large Classroom</string>
+		<key>Name</key>
+		<string>Room 302</string>
+		<key>ID</key>
+		<string>302</string>
+		<key>Difficulty</key>
+		<integer>3</integer>
+		<key>LocationID</key>
+		<integer>3</integer>
+		<key>SpeakerID</key>
+		<integer>2</integer>
+	</dict>
+</array>
+</plist>
