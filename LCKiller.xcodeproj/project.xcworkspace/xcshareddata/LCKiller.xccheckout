@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6669343B-2DBC-4504-A988-A4A7DB47F5DC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LCKiller</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FB5396336FC9983EEBC66F67E4C342C88B2DB4C4</key>
+		<string>https://github.com/gnuchoi/LCKiller3.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LCKiller.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FB5396336FC9983EEBC66F67E4C342C88B2DB4C4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/gnuchoi/LCKiller3.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FB5396336FC9983EEBC66F67E4C342C88B2DB4C4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FB5396336FC9983EEBC66F67E4C342C88B2DB4C4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LCKiller3</string>
+		</dict>
+	</array>
+</dict>
+</plist>

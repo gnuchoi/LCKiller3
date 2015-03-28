@@ -8,6 +8,7 @@
 
 #import "AudioFilePlayerController.h"
 #import "SharedStore.h"
+#import "AKFoundation.h"
 
 @interface AudioFilePlayerController(){
     SharedStore *global;
